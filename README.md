@@ -63,7 +63,7 @@ I wanted to **recreate that magic**, without using any ML libraries — purely t
 Have ideas, feedback, or just want to nerd out over ML models?
 
 - 📬 Reach me at: **[sraj55355@gmail.com]**
-- 🧠 LinkedIn / GitHub: **[@rajshinde]([https://github.com/rajshinde2004](https://www.linkedin.com/in/raj-shinde-77bb952b5/))**
+- 🧠 LinkedIn / GitHub: **((https://www.linkedin.com/in/raj-shinde-77bb952b5/))**
 
 ---
 
